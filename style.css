@@ -1,0 +1,13 @@
+.cabeçalho{
+    background-color:rgb(114, 170, 153) ;
+    color: brown;
+    display: flex;
+    justify-content: space-around;
+}
+
+.imagem-cabeçalho{
+    width: 10%;
+}
+.iten-lista{
+    display: inline-block;
+}
